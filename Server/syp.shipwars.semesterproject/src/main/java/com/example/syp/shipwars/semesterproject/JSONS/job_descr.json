@@ -1,0 +1,50 @@
+[
+  {
+    "job": "Bounty_Hunter",
+    "description": "Embark on high-stakes missions across the galaxy to capture or eliminate wanted individuals, fugitives, and criminals. As a Bounty Hunter, you'll rely on a combination of combat skills, cunning tactics, and cutting-edge technology to track down your targets. Whether you're navigating the bustling streets of Coruscant, traversing the desolate wastelands of Tatooine, or infiltrating the seedy underworld of Nar Shaddaa, you'll need to stay one step ahead of your quarry and be prepared to overcome any obstacles in your path. With each successful bounty collected, you'll earn credits, reputation, and the respect of your peers in the dangerous profession of bounty hunting."
+  },
+  {
+    "job": "Slaver",
+    "description": "Navigate the perilous underworld of intergalactic trade by transporting illicit goods, contraband, and sensitive cargo across contested territories and through heavily monitored spaceports. As a Smuggler, you'll rely on your piloting skills, quick thinking, and resourcefulness to evade authorities, rival syndicates, and Imperial blockades. Whether you're piloting a sleek starship through asteroid fields, negotiating deals with shady clientele in dimly lit cantinas, or outrunning Imperial patrols in the Outer Rim, you'll need to keep your wits sharp and your blaster at the ready. Success in the world of smuggling brings lucrative rewards, but also constant danger and the ever-present threat of betrayal. Only the most daring and cunning individuals thrive in this cutthroat profession."
+  },
+  {
+    "job": "Smuggler",
+    "description": "Navigate the perilous underworld of intergalactic trade by transporting illicit goods, contraband, and sensitive cargo across contested territories and through heavily monitored spaceports. As a Smuggler, you'll rely on your piloting skills, quick thinking, and resourcefulness to evade authorities, rival syndicates, and Imperial blockades. Whether you're piloting a sleek starship through asteroid fields, negotiating deals with shady clientele in dimly lit cantinas, or outrunning Imperial patrols in the Outer Rim, you'll need to keep your wits sharp and your blaster at the ready. Success in the world of smuggling brings lucrative rewards, but also constant danger and the ever-present threat of betrayal. Only the most daring and cunning individuals thrive in this cutthroat profession."
+  },
+  {
+    "job": "Black_Market_Arms_Dealer",
+    "description": "Operate outside the bounds of legality by procuring and selling restricted weaponry, armor, and military-grade technology to various factions, mercenaries, and criminal organizations. As a Black Market Arms Dealer, you'll navigate the dangerous underworld of arms trafficking, forging alliances with powerful clients while evading the scrutiny of law enforcement and government agencies."
+  },
+  {
+    "job": "Spice_Runner",
+    "description": "Smuggle and distribute illicit substances such as spice, a highly addictive and illegal drug, across the galaxy. As a Spice Runner, you'll navigate dangerous trade routes, bribe customs officials, and contend with rival drug cartels to control lucrative markets. The allure of quick profits and the thrill of evading law enforcement draw many into this risky profession, but the consequences of addiction and violence are ever-present dangers."
+  },
+  {
+    "job": "Slaver",
+    "description": "Engage in the trafficking of sentient beings for forced labor, servitude, or other nefarious purposes. As a Slaver, you'll exploit vulnerable populations, capture individuals from war-torn worlds or impoverished settlements, and sell them to wealthy buyers or criminal syndicates. Your actions perpetuate suffering and exploitation, earning the ire of freedom fighters, abolitionists, and law enforcement agencies across the galaxy."
+  },
+  {
+    "job": "Assassin",
+    "description": "Offer your lethal skills to eliminate targets for political, personal, or financial gain. As an Assassin, you'll operate in the shadows, carrying out contract killings with ruthless efficiency. Whether you're a cold-blooded mercenary, a trained operative of a clandestine organization, or a lone wolf seeking vengeance, your ability to eliminate targets without leaving a trace makes you a feared and deadly adversary. However, the constant risk of retaliation and the weight of your conscience may haunt you as you walk the path of the assassin."
+  },
+  {
+    "job": "Galactic_Archaeologist",
+    "description": "Delve into the mysteries of ancient civilizations scattered across the galaxy, uncovering relics, deciphering lost languages, and piecing together the secrets of long-forgotten cultures. As a Galactic Archaeologist, you'll explore remote planets, delve into ancient ruins, and contribute to the understanding of the galaxy's rich history."
+  },
+  {
+    "job": "Jedi_Artifact_Recovery_Specialist",
+    "description": "Utilize your Force sensitivity and keen investigative skills to track down and recover valuable Jedi artifacts scattered across the galaxy. Your mission involves navigating treacherous environments, outsmarting rival treasure hunters, and preserving the legacy of the Jedi Order for future generations."
+  },
+  {
+    "job": "Space_Station_Engineer",
+    "description": "Join the elite team responsible for designing, constructing, and maintaining space stations essential for interstellar travel, commerce, and diplomacy. As a Space Station Engineer, you'll collaborate with experts from various species to ensure these vital hubs operate efficiently and withstand the rigors of deep space."
+  },
+  {
+    "job": "Astrobiologist",
+    "description": "Explore the diverse ecosystems of alien worlds, studying the biology of extraterrestrial life forms and unraveling the mysteries of their evolutionary pathways. Your expertise will contribute to understanding the potential for life beyond Earth and pave the way for future colonization efforts."
+  },
+  {
+    "job": "",
+    "description": ""
+  }
+]

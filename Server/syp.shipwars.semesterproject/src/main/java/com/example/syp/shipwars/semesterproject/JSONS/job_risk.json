@@ -1,0 +1,38 @@
+[
+  {
+    "risk": "No_Risk",
+    "min_success": "99",
+    "max_success": "100"
+  },
+  {
+    "risk": "Very_Low",
+    "min_success": "95",
+    "max_success": "98"
+  },
+  {
+    "risk": "Low",
+    "min_success": "90",
+    "max_success": "95"
+  },
+  {
+  "risk": "Medium",
+  "min_success": "70",
+  "max_success": "90"
+  },
+  {
+    "risk": "High",
+    "min_success": "40",
+    "max_success": "60"
+  },
+  {
+    "risk": "Very_High",
+    "min_success": "20",
+    "max_success": "40"
+  },
+  {
+    "risk": "Near_Impossible",
+    "min_success": "0",
+    "max_success": "20"
+  }
+
+]

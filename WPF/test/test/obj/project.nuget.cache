@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEHm+G/xQx/o77vCuj9lrtJ9zT0gMK2pR+RR9YBZtUgxBNdQWwjY+EMXMPO2EPlmR7Jo1kSkmnPyHDeN/b8eqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tobias Haas\\Desktop\\Schule\\POS\\ShipWars\\WPF\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobias Haas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
